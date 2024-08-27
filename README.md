@@ -1,4 +1,5 @@
 # Netflix Clone
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8486d16f-f537-472c-940b-7a374d28da93/deploy-status)](https://app.netlify.com/sites/preeflix/deploys)
 This project is done as a part of frontend development learning journey
 
 This is the clone of a popular video streaming website [Netflix](https://netflix.com/browse).
